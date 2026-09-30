@@ -1,2 +1,3 @@
 # LTrinh
-Lập
+import numpy as np 
+
